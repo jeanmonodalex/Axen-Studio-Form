@@ -1,0 +1,12 @@
+{
+  "patientId": "Alex",
+  "firstName": "Alex",
+  "lastName": "Alex",
+  "dob": "2025-06-11",
+  "gender": "female",
+  "phone": "Alex",
+  "email": "Alex@FEF.F",
+  "medicalHistory": "Alex",
+  "allergies": "Alex",
+  "timestamp": "2025-06-15T16:01:53.393Z"
+}
